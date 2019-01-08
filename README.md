@@ -1,0 +1,2 @@
+# subMyGitRepo
+submodule for MyGitRepo
